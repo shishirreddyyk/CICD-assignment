@@ -1,3 +1,5 @@
 Flask>=2.2.0
 Werkzeug>=2.2.0
 pytest
+flake8
+pytest
